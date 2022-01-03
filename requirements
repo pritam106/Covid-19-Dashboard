@@ -1,0 +1,15 @@
+ pandas
+ numpy 
+ dash
+ dash_core_components 
+  dash_html_components 
+dash_table 
+dash.dependencies 
+ plotly.graph_objects
+ plotly.express
+ dash_bootstrap_components 
+ datetime
+
+
+ Must include your MapBox keys 
+ My key will not be work
